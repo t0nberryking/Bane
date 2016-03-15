@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bane</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="foryou">For You</string>
+    <string name="bane">BANE?</string>
+    <string name="bigguy">Big Guy</string>
+    <string name="cia">I\'m CIA</string>
+    <string name="maskedman">Masked</string>
+    <string name="drpavel">Dr Pavel</string>
+    <string name="call">Call it</string>
+    <string name="crashing">Crashing</string>
+    <string name="pain">Painful</string>
+    <string name="firsttotalk">Talk</string>
+    <string name="flightplan">Flight Plan</string>
+    <string name="fly">FLY</string>
+    <string name="uhh">Uhh</string>
+    <string name="grats">Grats</string>
+    <string name="pull">Pull</string>
+    <string name="nothing">Nothing</string>
+    <string name="loyalty">Loyalty</string>
+    <string name="masterplan">Master Plan</string>
+    <string name="nosurvivors">NO SURVIVORS</string>
+    <string name="wrrrr">wrrrr</string>
+    <string name="tellme">tellme</string>
+    <string name="fire">The Fire Rises</string>
+    <string name="ofcoursh">Of Coursh</string>
+    <string name="caught">Caught</string>
+
+</resources>
